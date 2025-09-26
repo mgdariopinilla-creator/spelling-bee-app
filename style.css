@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+.flashcard {
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #fff;
+}
+.word {
+    font-size: 24px;
+    font-weight: bold;
+}
+.spelling {
+    font-size: 18px;
+    margin-top: 10px;
+}
+textarea {
+    width: 100%;
+    height: 60px;
+    margin-top: 10px;
+}
+button {
+    margin-top: 10px;
+}
